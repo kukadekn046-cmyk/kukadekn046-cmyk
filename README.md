@@ -1,4 +1,6 @@
-## Hi there 👋
+Kedar Kukade !! 👋
+B.Tech UG at @COEP TECHNOLOGICAL UNIVERSITY 
+in Computer Science and Engineering 
 
 <!--
 **kukadekn046-cmyk/kukadekn046-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
