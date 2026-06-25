@@ -1,18 +1,16 @@
-Kedar Kukade !! 👋
-B.Tech UG at @COEP TECHNOLOGICAL UNIVERSITY 
-in Computer Science and Engineering 
+# Hi there 👋, I'm Kedar Jadhav
 
-<!--
-**kukadekn046-cmyk/kukadekn046-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Computer Engineering Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Computer Engineering
+- 🔥 Currently improving my DSA and Problem Solving skills
+- 💡 Interested in Full Stack Web Development
+- 🌱 Learning MERN Stack and System Design
+- 🎯 Goal: Become a Software Development Engineer (SDE)
+- ⚡ Fun Fact: I love solving coding challenges and building useful projects
+
+---
