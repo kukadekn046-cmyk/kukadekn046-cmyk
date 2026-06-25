@@ -35,12 +35,46 @@
 
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kukadekn046-cmyk&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=kukadekn046-cmyk&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukadekn046-cmyk&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=kukadekn046-cmyk&theme=tokyonight&no-frame=true&margin-w=15)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kukadekn046-cmyk&theme=tokyo-night)
 
 
-## 🤝 Connect With Me
 
-📧 Email: kedarkukade116@gmail.com
+## 🌐 SOCIAL
 
-💼 LinkedIn: www.linkedin.com/in/kedar-kukade-ba807534
+<p align="left">
+<a href="https://linkedin.com/in/Kedar Kukade" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/kukadekn046-cmyk" target="blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:kedarkukade116@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+
+</p>
 ---
