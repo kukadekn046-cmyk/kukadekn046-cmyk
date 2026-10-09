@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kedar Jadhav
+# Hi there 👋, I'm Kedar Kukade
 
 🚀 Passionate Computer Engineering Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner
 
